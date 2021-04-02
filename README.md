@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Eternityxl
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning ai
+- 💞️ I’m looking to collaborate on ai
+- 📫 My email is xfen_sun@163.com
